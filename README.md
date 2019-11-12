@@ -1,12 +1,18 @@
-# Evolutionary dynamics of intra-tumoral heterogenoeous systems: An analytic and numeric coincidence to understand the dynamics of multi-compartmental biologic structures
+# Evolutionary dynamics of intra-tumoral heterogenoeous systems 
+_An analytic and numeric coincidence to understand the dynamics of multi-compartmental biologic structures_
 
+## Introduction
 
 The unwelcome evolution of malignancy during cancer progression emerges through a
 selection process in a complex heterogeneous population structure. In the present work, we
 investigate evolutionary dynamics in a phenotypically heterogeneous population of stem
 cells (SCs) and their associated progenitors. The fate of a malignant mutation is determined
 not only by overall stem cell and non-stem cell growth rates but also differentiation and dedifferentiation
-rates. We investigate the effect of such a complex population structure on the
+rates. 
+
+## Project results
+
+We investigate the effect of such a complex population structure on the
 evolution of malignant mutations. We derive exactly calculated results for the fixation probability
 of a mutant arising in each of the subpopulations. The exactly calculated results are in
 almost perfect agreement with the numerical simulations. Moreover, a condition for evolutionary
