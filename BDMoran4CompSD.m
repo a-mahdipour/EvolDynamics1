@@ -1,12 +1,17 @@
-function [XX,YY] = BDMoran4CompSD(Ns,Nd,x,y,r1,r2,rr1,rr2,u1,u2,eta1,eta2)
 
-    
+#######################################################
+###      4-compartment model (Birth-Death)          ###
+###   University of Waterloo, Waterloo,Canada       ###
+###            copyright@AliMahdipour               ###
+#######################################################
+
+function [XX,YY] = BDMoran4CompSD(Ns,Nd,x,y,r1,r2,rr1,rr2,u1,u2,eta1,eta2)
+  
 b1 = rand;
 d1 = rand;
 m1 = rand;
 
 if( b1 <= (r2*x)/(r2*x + r1*(Ns-x) + rr2*y + rr1*(Nd-y) ) )
-    
     
     if( m1 <= 1-u2 )
         
@@ -77,14 +82,3 @@ YY=y;
 
 end
 
-%
-% for h=1:1:tend
-%     S = 1/tend*sum(R(:));
-% end
-%  S=[S ; t x y];
-
-
-% figure(1) % plot time serie
-% plot(S(:,1),S(:,2),'b',S(:,1),S(:,3),'r');
-% xlabel('Time')
-% ylabel('X (blue), Y (red)')
