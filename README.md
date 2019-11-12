@@ -28,7 +28,7 @@ mathematical framework can be applied more generally to a variety of problems co
 selection in heterogeneous populations, in other contexts such as population genetics, and
 ecology.
 
-![image](journal.pone.0187000.g001-1.pdf)
+![image](journal.pone.0187000.g001-1.png)
 
 ## Acheivments
 In this research we tried to address the following items:
