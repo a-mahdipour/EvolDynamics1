@@ -40,7 +40,8 @@ for i=1:1:iteration
     for t=1:1:tmax
         
          [XX,YY] =  BDMoran4CompSD(Ns,Nd,x,y,r1,r2,rr1,rr2,u1,u2,eta1,eta2);
-        
+         %[XX,YY] =  Moran4BDCompSD(Ns,Nd,x,y,r1,r2,rr1,rr2,u1,u2,eta1,eta2);
+         
         var1(i,t+1)=XX;
         var2(i,t+1)=YY;
         x = XX;
