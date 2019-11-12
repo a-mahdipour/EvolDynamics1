@@ -28,6 +28,8 @@ mathematical framework can be applied more generally to a variety of problems co
 selection in heterogeneous populations, in other contexts such as population genetics, and
 ecology.
 
+![image](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187000)
+
 ## Acheivments
 In this research we tried to address the following items:
 * Generalized Moran process with (a)symmetric division and plasticity
