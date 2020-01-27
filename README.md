@@ -36,7 +36,7 @@ In this research we tried to address the following items:
 * Fixation probability in an intra-tumoral heterogenoeous Moran process
 * Analytic results for the fixation probability of 4-compartment geterogenous model
 * The phase boundary for advantageous and disadvantageous mutant populations
-* Application to colorectal cancer
+* A better undrstanding of cellular automata in colorectal/intestinal cancer
 
 ## Reference
 
